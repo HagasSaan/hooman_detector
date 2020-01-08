@@ -1,3 +1,4 @@
 mask_rcnn_coco.h5
 .ipynb_checkpoints
 images/*
+!images/test.jpg
